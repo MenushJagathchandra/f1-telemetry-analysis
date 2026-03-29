@@ -17,12 +17,6 @@ An end-to-end data analysis and machine learning project that explores Formula 1
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Analysis Examples](#analysis-examples)
-- [Machine Learning Models](#machine-learning-models)
-- [Dashboard](#dashboard)
-- [Key Insights](#key-insights)
-- [Technologies Used](#technologies-used)
-- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -181,13 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Menush jagathchandra**
-- GitHub: [@MenushJagathchandra](https://github.com/MenushJagathchandra)
-- LinkedIn: [MenushJagathchandra](www.linkedin.com/in/menushjagathchandra08)
-- Email: your.email@example.com
-
----
 
 **⭐ If you found this project useful, please consider giving it a star!**
