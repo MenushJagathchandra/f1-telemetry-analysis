@@ -98,7 +98,7 @@ f1_telemetry_project/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/f1-telemetry-analysis.git
+git clone https://github.com/MenushJagathchandra/f1-telemetry-analysis.git
 cd f1-telemetry-analysis
 ```
 
